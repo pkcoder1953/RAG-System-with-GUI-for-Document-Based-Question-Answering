@@ -1,0 +1,2 @@
+# RAG-System-with-GUI-for-Document-Based-Question-Answering
+This project is a locally-runnable RAG System designed to answer user queries based on content extracted from uploaded PDF documents. It processes text and images from PDF files and uses advanced NLP models to provide accurate, context-aware answers. The system features a GUI that displays responses, source pages, and relevant images interactively.
