@@ -29,7 +29,9 @@ This project is a locally-runnable **Retrieval-Augmented Generation (RAG) System
 - **Relevant Images**: Displays images from the manual associated with the steps.
 - **Source Pages**: Lists the pages from which the content was retrieved.
 
+![Sample Query]([https://github.com/username/repo-name/blob/main/path-to-image.png](https://github.com/pkcoder1953/RAG-System-with-GUI-for-Document-Based-Question-Answering/blob/main/Sample%20Query.png))
 
+![GUI Response Screenshot]([https://github.com/username/repo-name/blob/main/path-to-image.png](https://github.com/pkcoder1953/RAG-System-with-GUI-for-Document-Based-Question-Answering/blob/main/Response%20with%20images%20and%20source.png))
 
 ## How It Works
 1. **PDF Processing**:
@@ -76,8 +78,3 @@ This project is a locally-runnable **Retrieval-Augmented Generation (RAG) System
 - **Free of Cost**: Open-source and requires no subscription.
 - **High Accuracy**: Leverages advanced NLP models for precise results.
 - **Interactive**: Intuitive GUI for an enhanced user experience.
-
-## Example Output
-- **Query**: *"What is the process of loading paper?"*
-- **Answer**: Detailed steps for loading paper with relevant images and source tracking.
-- **GUI Screenshot**:
